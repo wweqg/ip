@@ -50,7 +50,7 @@ public class Duke {
     }
 
     /**
-     * The entry of the Duke application
+     * The entry of the Duke application.
      *
      * @param args user input.
      */
